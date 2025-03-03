@@ -1,7 +1,7 @@
 ## Hello, I'm Sushrut
 I'm a student who likes to solve problems
 
-[Visit my blog @ blog.sushrut.dev](https://blog.sushrut.dev)
+[Visit my blog @ blog.sushrut.dev](https://blog.sushrut.dev) (It appears it is temporarily down due to a DNS issue, I am working on a fix)
 
 ---
 ### Projects
