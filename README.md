@@ -35,7 +35,6 @@ I'm a student who likes to solve problems
 - Optimizing autonomous routines using python pathgen scripts
 
 [**buildtheearth/terrabungee**](https://github.com/buildtheearth/terrabungee):
-- **Temporarily Private**
 - Efficient platform to scale and deploy minecraft servers
 - Working on migrating to the Velocity proxy platform and PaperMC server platform
 
