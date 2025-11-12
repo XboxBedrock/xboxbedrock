@@ -1,5 +1,5 @@
 ## Hello, I'm Sushrut
-I'm a student who likes to solve problems
+I'm a student who likes to solve problems in interesting ways
 
 [Visit my blog @ blog.sushrut.dev](https://blog.sushrut.dev) 
 
