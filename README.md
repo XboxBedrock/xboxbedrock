@@ -6,6 +6,15 @@ I'm a student who likes to solve problems
 ---
 ### Projects
 
+[**carnatictuner**](https://github.com/xboxbedrock/carnatictuner):
+- The only free and open source tuner app for Carnatic instruments
+- Uses FFT to provide easy tuning interface for instruments
+- 10k+ downloads over [Apple App Store](https://apps.apple.com/us/app/carnatictuner/id6448685976) and [Google Play Store](https://play.google.com/store/apps/details?id=ai.viri.newtuner&pli=1)
+
+[**betterhearing**](https://github.com/xboxbedrock/betterhearing):
+- Uses GP Regression to increase the efficiency and accuracy of audiograms via adaptive testing
+- Adheres to ISO standards on audiogram calibration
+  
 [**buildtheearth/main-bot**](https://github.com/buildtheearth/main-bot):
 - The main discord bot for the BuildTheEarth project, catering a peak of 250k users
 - Written in TypeScript with Discord.js making use of TypeORM
@@ -15,6 +24,12 @@ I'm a student who likes to solve problems
 - A project intended to give information of the closest Minecraft blocks that match a given color
 - Written in Golang using VIPS for image processing
 - Extremely efficient being able to generate and serve images on the scale of 1-10 milliseconds
+
+[**simwheel**](https://github.com/xboxbedrock/simewheel):
+- Fully custom force feedback sim racing steering wheel, achieves ~15Nm of torque with hoverboard wheel motor
+- Inspired by the mercedes F1 wheel
+- Sponsored by Hack Club Highway
+- Custom designed electronics built on OpenFFBoard
 
 [**buildtheearth/bot-utils**](https://github.com/buildtheearth/bot-utils):
 - Utility library for the BuildTheEarth bots
@@ -41,4 +56,16 @@ I'm a student who likes to solve problems
 [**CACSoccerTracker**](https://github.com/xboxbedrock/CACSoccerTracker):
 - Project that is tied to a PCB in order to collect statistics from a soccer player
 - Small device that is intended for power efficiency
+---
+
+### The Non-Tech Stuff
+
+I'm a member of the ITF (International Taekwondo Federation) and competed at the 2025 ITF Taekwon-Do World Championships in Barcelona.
+
+I also do photography when I get the chance, check out my best photos on [flickr](https://www.flickr.com/photos/199116360@N02/). (I promise they're good).
+<br />
+<br />
+<br />
+<br />
+<sup>Here's a cookie for reading my entire readme 🍪</sup>
 
