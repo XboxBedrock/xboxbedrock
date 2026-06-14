@@ -6,7 +6,7 @@ I'm a student who likes to solve problems in interesting ways
 ---
 ### Projects
 
-[**carnatictuner**](https://github.com/xboxbedrock/carnatictuner):
+[**carnatictuner**](https://github.com/xboxbedrock/carnatic-tuner):
 - The only free and open source tuner app for Carnatic instruments
 - Uses FFT to provide easy tuning interface for instruments
 - 10k+ downloads over [Apple App Store](https://apps.apple.com/us/app/carnatictuner/id6448685976) and [Google Play Store](https://play.google.com/store/apps/details?id=ai.viri.newtuner&pli=1)
